@@ -103,7 +103,7 @@
         app:layout_constraintStart_toStartOf="@+id/Password"
         app:layout_constraintTop_toBottomOf="@+id/Password" />
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/loginBtn"
         style="@android:style/Widget.Button"
         android:layout_width="0dp"
