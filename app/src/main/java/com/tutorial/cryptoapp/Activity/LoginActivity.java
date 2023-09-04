@@ -37,7 +37,6 @@ public class LoginActivity extends AppCompatActivity {
                 startActivity(new Intent(LoginActivity.this, MainActivity.class));
             }else {
                 Toast.makeText(LoginActivity.this, "Please correctly fill your Username and Password", Toast.LENGTH_SHORT).show();
-
             }
         });
     }
