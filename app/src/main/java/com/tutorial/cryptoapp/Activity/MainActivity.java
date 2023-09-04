@@ -1,8 +1,10 @@
-package com.tutorial.cryptoapp;
+package com.tutorial.cryptoapp.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.tutorial.cryptoapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
